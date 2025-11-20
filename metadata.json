@@ -1,0 +1,5 @@
+{
+  "name": "CodeCraft",
+  "description": "An interactive platform to solve coding challenges, powered by Gemini for hints and explanations. Write, run, and test your code directly in the browser.",
+  "requestFramePermissions": []
+}
